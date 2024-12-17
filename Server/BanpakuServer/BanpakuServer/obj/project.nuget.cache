@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "fuAAGF7lwEk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yoshi\\Documents\\Unity\\banpaku\\banpaku\\Server\\BanpakuServer\\BanpakuServer\\BanpakuServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yoshi\\.nuget\\packages\\grpc.aspnetcore.server\\2.57.0\\grpc.aspnetcore.server.2.57.0.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\grpc.core.api\\2.57.0\\grpc.core.api.2.57.0.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\grpc.net.client\\2.57.0\\grpc.net.client.2.57.0.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\grpc.net.common\\2.57.0\\grpc.net.common.2.57.0.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\magiconion\\6.1.6\\magiconion.6.1.6.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\magiconion.abstractions\\6.1.6\\magiconion.abstractions.6.1.6.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\magiconion.client\\6.1.6\\magiconion.client.6.1.6.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\magiconion.serialization.messagepack\\6.1.6\\magiconion.serialization.messagepack.6.1.6.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\magiconion.server\\6.1.6\\magiconion.server.6.1.6.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\magiconion.shared\\6.1.6\\magiconion.shared.6.1.6.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\messagepack\\2.5.187\\messagepack.2.5.187.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\messagepack.annotations\\2.5.187\\messagepack.annotations.2.5.187.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\yoshi\\.nuget\\packages\\microsoft.net.stringtools\\17.6.3\\microsoft.net.stringtools.17.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
